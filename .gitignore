@@ -1,0 +1,8 @@
+/.vs/
+/[Pp]royectoGit/[Oo]bj/
+/[Pp]royectoGit/[Bb]in/
+*.user
+*.suo
+*.dll
+*.exe
+*.pdb
